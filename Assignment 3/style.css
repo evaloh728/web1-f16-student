@@ -1,24 +1,23 @@
-body{
+body {
 	font-family:Gill Sans;
 	color:#99D3DF
 }
-nav ul{
+nav ul {
 	list-style-type:none;
 }
-nav ul li{
+nav ul li {
 	text-decoration:none;
 	float:right;
 	padding:10px;
 	color:#99D3DF
 }
-nav, a, a:visited{
+nav, a, a:visited {
 	color:#88BBD6;
 	text-decoration:none
 }
-a:hover:{
-	color:#CDCDCD
+a:hover {
+	color:#99D3DF；
 }
-
 h1 {
 	color:#99D3DF
 	font-size:14pt;
@@ -53,4 +52,5 @@ img.square{
 	float:left;
 	padding:15px;
 }
+
 
