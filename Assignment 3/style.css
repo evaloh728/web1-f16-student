@@ -51,6 +51,7 @@ img.square{
 	margin-bottom:10px;
 	float:left;
 	padding:15px;
+	max-width: 15em
 }
 
 
