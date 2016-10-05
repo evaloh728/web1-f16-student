@@ -9,37 +9,37 @@ nav ul li {
 	text-decoration:none;
 	float:right;
 	padding:10px;
-	color:#99D3DF
+	color:#99D3DF;
 	margin-right:10px;
 }
 nav, a, a:visited {
 	color:#88BBD6;
-	text-decoration:none
+	text-decoration:none;
 }
 a:hover {
 	color:#99D3DF；
 }
 h1 {
-	color:#99D3DF
+	color:#99D3DF;
 	font-size:14pt;
 	margin-left:10px;
 }
 
 h2 {
-	color:#88BBD6
+	color:#88BBD6;
 	font-size:10pt;
-	background-color: #E9E9E9
+	background-color: #E9E9E9;
 }
 
 a:{
-	color:#99D3DF
-	text-decoration:none
+	color:#99D3DF;
+	text-decoration:none;
 }
 p {
-	font-family:Gill Sans
-	color:#CDCDCD
+	font-family:Gill Sans;
+	color:#CDCDCD;
 	font-size:8pt;
-	max-width: 40em
+	max-width: 40em;
 }
 img.align-right{
 	float:right;
