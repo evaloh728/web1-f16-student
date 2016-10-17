@@ -1,0 +1,43 @@
+body {
+	font-family: "Helvetica";
+	margin-top: 5em;
+	margin-left: 5em;
+	margin-right: auto;
+	max-width: 43em;
+}
+
+h1 {
+	font-family: "Helvetica"
+	font-size: 2em;
+	border: solid 2px #6D7993;
+	padding: 5px;
+	color:#6D7993;
+}
+
+h3 {
+	color:#6D7993;
+}
+
+ul {
+	list-style-type: none;
+}
+ul li {
+	font-family: "Helvetica";
+	list-style-type: square;
+	font-size: 1em;
+	color: #96858F;
+	line-height: 1.5;
+}
+a, a:visited {
+	color: #96858F;
+	text-decoration: none;
+}
+a:hover {
+	color: black;
+}
+p {
+	font-family: "Helvetica";
+	font-size:10pt;
+	line-height: 1.5;
+	color: #9099A2
+}
