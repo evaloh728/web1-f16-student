@@ -1,5 +1,5 @@
 body {
-	font-family: "Helvetica";
+	font-family: "Avenir";
 	margin-top: 5em;
 	margin-left: 5em;
 	margin-right: auto;
@@ -7,11 +7,11 @@ body {
 }
 
 h1 {
-	font-family: "Helvetica"
+	font-family: "Avenir"
 	font-size: 2em;
-	border: solid 2px #6D7993;
+	border: solid 2px #e32c2c;
 	padding: 5px;
-	color:#6D7993;
+	color:#e32c2c;
 }
 
 h3 {
@@ -22,7 +22,7 @@ ul {
 	list-style-type: none;
 }
 ul li {
-	font-family: "Helvetica";
+	font-family: "Avenir";
 	list-style-type: square;
 	font-size: 1em;
 	color: #96858F;
@@ -36,7 +36,7 @@ a:hover {
 	color: black;
 }
 p {
-	font-family: "Helvetica";
+	font-family: "Avenir";
 	font-size:10pt;
 	line-height: 1.5;
 	color: #9099A2
