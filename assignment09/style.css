@@ -43,17 +43,35 @@ h2{
 h3{
 	color:#BDC3C7;
 	text-decoration: none;
-	font-family: "Adobe Garamond"; 
+	font-family: "Avenir"; 
 	font: italic;
 	font-size: 11pt;
-	padding-left: 20px
+	padding-left: 40px
 }
 
 p{
 	color:#BDC3C7;
 	text-decoration: none;
 	font-family: "Avenir"; 
-	font-size: 11pt;
+	font-size: 10pt;
+	padding-right: 30px;
+	padding-left: 30px;
+	margin-left: 10px;
+}
+
+h4{
+	color:black;
+	text-decoration: none;
+	font-family: "Avenir"; 
+	font-size: 18pt;
+	padding-left: 20px
+}
+
+footer{
+	color:#BDC3C7;
+	text-decoration: none;
+	font-family: "Avenir"; 
+	font-size: 10pt;
 	padding-right: 30px;
 	padding-left: 30px;
 	margin-left: 10px;
