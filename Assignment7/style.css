@@ -14,36 +14,37 @@ html {
 	padding: 0;
 	}
 body { 
-	font: 75% georgia, sans-serif;
-	line-height: 1.88889;
-	color: #555753; 
-	background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right; 
+	font: 75% Helvetica, sans-serif;
+	line-height: 1.5;
+	color: #BDC3C7; 
+	background: white; 
 	margin: 0; 
 	padding: 0;
 	}
 p { 
-	margin-top: 0; 
-	text-align: justify;
+	margin-top: 1.5em; 
+	text-align: left;
+	margin-right: 15em
 	}
 h3 { 
-	font: italic normal 1.4em georgia, sans-serif;
-	letter-spacing: 1px; 
+	font: 1.7em "Avenir Black", sans-serif;
+	letter-spacing: 0.5px; 
 	margin-bottom: 0; 
-	color: #7D775C;
+	color: #5D6D7E;
 	}
 a:link { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #B7A5DF;
+	color: #AED6F1;
 	}
 a:visited { 
 	font-weight: bold; 
 	text-decoration: none; 
-	color: #D4CDDC;
+	color: #5DADE2;
 	}
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
-	color: #9685BA;
+	color: #D6EAF8;
 	}
 abbr {
 	border-bottom: none;
@@ -52,7 +53,10 @@ abbr {
 
 /* specific divs */
 .page-wrapper { 
-	background: url(http://csszengarden.com/001/zen-bg.jpg) no-repeat top left; 
+	background: url(wood.jpg) no-repeat top left; 
+	background-repeat: repeat;
+	max-width: 100%;
+	max-height: 120%
 	padding: 0 175px 0 110px;  
 	margin: 0; 
 	position: relative;
@@ -76,7 +80,6 @@ header h1 {
 	overflow: hidden;
 	}
 header h2 { 
-	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
 	width: 200px; 
@@ -126,8 +129,7 @@ footer a:link, footer a:visited {
 	right: 0;
 	}
 .sidebar .wrapper { 
-	font: 10px verdana, sans-serif; 
-	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
+	font: 10px Helvetica, sans-serif; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
@@ -153,7 +155,7 @@ footer a:link, footer a:visited {
 	overflow: hidden;
 	}
 .sidebar h3.resources { 
-	background: transparent url(http://csszengarden.com/001/h6.gif) no-repeat top left; 
+	background:  no-repeat top left; 
 	margin: 25px 0 5px 0; 
 	width:63px; 
 	height: 10px; 
@@ -170,7 +172,6 @@ footer a:link, footer a:visited {
 	}
 .sidebar li {
 	line-height: 1.3em; 
-	background: transparent url(http://csszengarden.com/001/cr1.gif) no-repeat top center; 
 	display: block; 
 	padding-top: 5px; 
 	margin-bottom: 5px;
@@ -185,8 +186,6 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat; 
-	position: absolute; 
 	top: 40px; 
 	right: 0; 
 	width: 148px; 
